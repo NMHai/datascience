@@ -4,7 +4,9 @@
 
 We make use of some references. 
 https://stackoverflow.com/questions/3949744/python-http-download-page-source
+
 https://stackoverflow.com/questions/9222106/how-to-extract-information-between-two-unique-words-in-a-large-text-file
+
 https://stackoverflow.com/questions/13137817/how-to-download-image-using-requests
 
 ##0. Running
