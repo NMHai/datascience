@@ -3,7 +3,7 @@ import numpy as np;
 import time;
 import pandas as pd; 
 
-X = np.loadtxt('corpusFeatures1.csv', delimiter=',');
+X = np.loadtxt('corpusFeatures.csv', delimiter=',');
 
 #Remove Nan Values in X
 X = X[~np.isnan(X).any(axis=1)];
